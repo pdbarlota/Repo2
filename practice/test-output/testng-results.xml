@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15" started-at="2019-04-06T09:41:56Z" finished-at="2019-04-06T09:41:56Z">
+    <groups>
+    </groups>
+    <test name="TestNG" duration-ms="15" started-at="2019-04-06T09:41:56Z" finished-at="2019-04-06T09:41:56Z">
+      <class name="com.rule14.com.rule14.Practice1.NewTestNG">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.rule14.com.rule14.Practice1.NewTestNG@129a8472]" name="beforeSuite" is-config="true" duration-ms="9" started-at="2019-04-06T15:11:56Z" finished-at="2019-04-06T15:11:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.rule14.com.rule14.Practice1.NewTestNG@129a8472]" name="beforeTest" is-config="true" duration-ms="0" started-at="2019-04-06T15:11:56Z" finished-at="2019-04-06T15:11:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.rule14.com.rule14.Practice1.NewTestNG@129a8472]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-04-06T15:11:56Z" finished-at="2019-04-06T15:11:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f(java.lang.String)[pri:0, instance:com.rule14.com.rule14.Practice1.NewTestNG@129a8472]" name="f" duration-ms="3" started-at="2019-04-06T15:11:56Z" finished-at="2019-04-06T15:11:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.rule14.com.rule14.Practice1.NewTestNG@129a8472]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-04-06T15:11:56Z" finished-at="2019-04-06T15:11:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.rule14.com.rule14.Practice1.NewTestNG@129a8472]" name="afterClass" is-config="true" duration-ms="1" started-at="2019-04-06T15:11:56Z" finished-at="2019-04-06T15:11:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.rule14.com.rule14.Practice1.NewTestNG@129a8472]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-06T15:11:56Z" finished-at="2019-04-06T15:11:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.rule14.com.rule14.Practice1.NewTestNG@129a8472]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-04-06T15:11:56Z" finished-at="2019-04-06T15:11:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.rule14.com.rule14.Practice1.NewTestNG@129a8472]" name="afterSuite" is-config="true" duration-ms="0" started-at="2019-04-06T15:11:56Z" finished-at="2019-04-06T15:11:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.rule14.com.rule14.Practice1.NewTestNG -->
+    </test> <!-- TestNG -->
+  </suite> <!-- Suite -->
+</testng-results>
